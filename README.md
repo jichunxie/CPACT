@@ -1,4 +1,4 @@
-*CPACT
+# CPACT
 
 **CPACT** is a novel knowledge-base-informed method designed to infer pathway activity by capturing chain-like topology structures in gene co-expression graphs. It integrates **graphical modeling**, **deep learning**, and **statistical hypothesis testing** to provide a high-accuracy, computationally efficient solution for single-cell RNA-sequencing (scRNA-seq) pathway analysis.
 
