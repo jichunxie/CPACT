@@ -24,7 +24,7 @@ To install CPACT, use the following steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/CPACT.git
+git clone https://github.com/Cafecito95/CPACT.git
 
 # Navigate to the directory
 cd CPACT
