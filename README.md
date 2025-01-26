@@ -1,6 +1,6 @@
 # CPACT
 
-**CPACT**(**C**ell-type-specific **P**athway **ACT**ivity) is a novel knowledge-base-informed method designed to infer pathway activity by capturing chain-like topology structures in gene co-expression graphs. It integrates graph theory, deep learning, and hypothesis testing to provide a high-accuracy, computationally efficient solution for single-cell RNA-sequencing (scRNA-seq) pathway analysis.
+**CPACT**(**C**ell-type **P**athway **ACT**ivity) is a novel knowledge-base-informed method designed to infer pathway activity by capturing chain-like topology structures in gene co-expression graphs. It integrates graph theory, deep learning, and hypothesis testing to provide a high-accuracy, computationally efficient solution for single-cell RNA-sequencing (scRNA-seq) pathway analysis.
 
 ## Key Features
 
