@@ -16,6 +16,9 @@
 4. Uses a graph-based **variational autoencoder (VAE)** to establish a null distribution for pathway activeness.
 5. Performs statistical hypothesis testing to determine pathway activity and computes effect sizes.
 
+- **User input**: Gene set/Gene pathway → **Output**: Gene set/Pathway p-value and effect size.
+
+
 ![CPACT Overview](images/CPACT_overview.jpeg)
 
 ## Installation
