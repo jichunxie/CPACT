@@ -4,7 +4,7 @@
 
 ## Key Features
 
-- **Robust**: CPACT identifies active pathways by analyzing chain-like topology structures in gene co-expression graphs, rather than relying solely on marginal gene expression, making it more robust.
+- **Biologically-Informed Insights**: CPACT leverages existing pathway databases, such as KEGG, Reactome, and WikiPathways, to analyze and identify active pathways. This integration ensures that pathway activity analysis is grounded in well-established biological knowledge.
 - **High Accuracy**: Demonstrated superior performance in identifying active pathways across multiple cell types.
 - **Resilient to Batch Effects**: Mitigates batch effects by leveraging co-expression relationships rather than marginal expression levels.
 
