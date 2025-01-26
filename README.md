@@ -10,13 +10,13 @@
 
 ## How CPACT Works
 
+- **User input**: Gene set/pathway → **CPACT Output**: Gene set/pathway p-value and effect size.
+
 1. Constructs a gene co-expression graph from scRNA-seq data.
 2. Extracts pathway subgraphs and generates random subgraphs for null comparisons.
 3. Derives graph embeddings to capture relevant topological features.
 4. Uses a graph-based **variational autoencoder (VAE)** to establish a null distribution for pathway activeness.
 5. Performs statistical hypothesis testing to determine pathway activity and computes effect sizes.
-
-- **User input**: Gene set/pathway → **Output**: Gene set/pathway p-value and effect size.
 
 
 ![CPACT Overview](images/CPACT_overview.jpeg)
