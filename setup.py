@@ -5,17 +5,17 @@ setup(
     version="0.1.0",               # Version number
     packages=find_packages(),      # Automatically find packages in your project
     install_requires=[             # List any package dependencies here
-    numpy==1.24.4
-    pandas==1.2.4
-    statsmodels==0.14.1
-    mygene==3.2.2
-    networkx==2.5
-    igraph==0.11.6
-    torch==2.4.1
-    scipy==1.10.1
-    biopython==1.78
-    matplotlib==3.3.4
-    karateclub==1.3.3
+        "numpy==1.24.4",
+        "pandas==1.2.4",
+        "statsmodels==0.14.1",
+        "mygene==3.2.2",
+        "networkx==2.5",
+        "igraph==0.11.6",
+        "torch==2.4.1",
+        "scipy==1.10.1",
+        "biopython==1.78",
+        "matplotlib==3.3.4",
+        "karateclub==1.3.3",
     ],
     author="Orlando Ferrer",            
     author_email="orlando8955@gmail.com",  
