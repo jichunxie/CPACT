@@ -14,8 +14,7 @@ setup(
         "torch==2.4.1",
         "scipy==1.10.1",
         "biopython==1.78",
-        "matplotlib==3.3.4",
-        "karateclub==1.3.3",
+        "matplotlib==3.3.4"
     ],
     author="Orlando Ferrer",            
     author_email="orlando8955@gmail.com",  
